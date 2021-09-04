@@ -24,6 +24,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Create a Telegram Bot to watch Bitcoin’s Volatility using Google Apps Script](https://chatbotslife.com/create-a-telegram-bot-to-watch-bitcoins-volatility-using-google-apps-script-70eaddc7d1dd?source=rss-9c615d76c832------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
