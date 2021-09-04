@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **One thing I cannot live without is coding**
 
-### Blogs posts
+### 📩 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Create a Telegram Bot to watch Bitcoin’s Volatility using Google Apps Script](https://chatbotslife.com/create-a-telegram-bot-to-watch-bitcoins-volatility-using-google-apps-script-70eaddc7d1dd?source=rss-9c615d76c832------2)
@@ -42,7 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toannhu96&show_icons=true&locale=en" alt="toannhu96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toannhu96&" alt="toannhu96" /></p>
-
-# 📩 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
