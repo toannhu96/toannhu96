@@ -24,6 +24,7 @@
 ### 📩 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Gentle Introduction to CI/CD Pipeline with Github Actions](https://toannhu.medium.com/a-gentle-introduction-to-ci-cd-pipeline-with-github-actions-86115c4a6310?source=rss-9c615d76c832------2)
 - [Create a Telegram Bot to watch Bitcoin’s Volatility using Google Apps Script](https://chatbotslife.com/create-a-telegram-bot-to-watch-bitcoins-volatility-using-google-apps-script-70eaddc7d1dd?source=rss-9c615d76c832------2)
 <!-- BLOG-POST-LIST:END -->
 
