@@ -24,6 +24,7 @@
 ### 📩 Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Deal With Cross Device Sessions in Realtime at Scale](https://toannhu.medium.com/how-to-deal-with-cross-device-sessions-in-realtime-at-scale-5e34f6f5003c?source=rss-9c615d76c832------2)
 - [A Gentle Introduction to CI/CD Pipeline with Github Actions](https://medium.com/geekculture/a-gentle-introduction-to-ci-cd-pipeline-with-github-actions-86115c4a6310?source=rss-9c615d76c832------2)
 - [Create a Telegram Bot to watch Bitcoin’s Volatility using Google Apps Script](https://chatbotslife.com/create-a-telegram-bot-to-watch-bitcoins-volatility-using-google-apps-script-70eaddc7d1dd?source=rss-9c615d76c832------2)
 <!-- BLOG-POST-LIST:END -->
