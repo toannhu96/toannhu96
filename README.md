@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toan</h1>
-<h3 align="center">A passionate Data Engineer at Tiki Corporation</h3>
+<h3 align="center">A passionate Senior Data Engineer at Tiki Corporation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toannhu96&label=Profile%20views&color=0e75b6&style=flat" alt="toannhu96" /> </p>
 
@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [https://toannhu.medium.com/](https://toannhu.medium.com/)
 
-- 💬 Ask me about **Backend and Data Engineer**
+- 💬 Ask me about **System Design, Data Engineering and Software Development**
 
-- 📫 How to reach me **toanbk21096@gmail.com**
+- 📫 How to reach me **toanbk21096@gmail.com** or **toan.nhu@tiki.vn**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/toannhu/](https://www.linkedin.com/in/toannhu/)
 
