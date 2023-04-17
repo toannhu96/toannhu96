@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/toannhu96](https://github.com/toannhu96)
+- 👨‍💻 All of my projects are available at [https://github.com/toannhu96/](https://github.com/toannhu96/)
 
 - 📝 I regularly write articles on [https://toannhu.medium.com/](https://toannhu.medium.com/)
 
